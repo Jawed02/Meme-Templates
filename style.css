@@ -1,0 +1,29 @@
+body {
+    margin-top:60px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:black;
+}
+
+#image {
+    margin-top: 30px;
+     height: auto;
+     width:100%;
+}
+#p {
+    color:white; 
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+#a {
+    color:white;
+    font-size: 15px;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+@media screen and (max-width: 500px) {
+  
+    
+
+  }
+  
